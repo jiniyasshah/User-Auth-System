@@ -137,8 +137,8 @@ This is a simple API for user authentication, registration, and profile manageme
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/jiniyasshah/User-Auth-System.git
+cd User-Auth-System
 ```
 
 ### 2. **Install Dependencies**
